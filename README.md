@@ -21,3 +21,4 @@ Issue → Environment → Troubleshooting → Resolution → Prevention
 - Realistic scenarios (password resets, DNS failures, printer issues, VPN/Wi-Fi drops)
 - Repeatable troubleshooting steps
 - Clear documentation and prevention notes
+- Lab repo started on 2026-01-01
