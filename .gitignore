@@ -1,0 +1,62 @@
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Linux temporary files
+*~
+*.swp
+*.swo
+.nfs*
+
+# ===== Editor/IDE =====
+.vscode/
+.idea/
+*.iml
+
+# ===== Logs / dumps =====
+*.log
+*.tmp
+*.bak
+*.old
+*.dmp
+
+# ===== Secrets (never commit) =====
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.kdbx
+secrets/
+**/secrets/
+credentials/
+**/credentials/
+
+# ===== Python (if you ever add scripts) =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+
+# ===== Node (if you ever add tooling) =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===== Build artifacts =====
+dist/
+build/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# ===== Notes: keep lab docs tracked =====
+# (We are intentionally NOT ignoring: labs/, templates/, *.md)
