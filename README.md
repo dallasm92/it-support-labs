@@ -7,6 +7,7 @@ Issue → Environment → Troubleshooting → Resolution → Prevention
 
 ## Featured Labs (Portfolio)
 - [GitHub SSH setup on Linux Mint](labs/linux/2026-01-01-github-ssh-setup.md)
+- [GitHub SSH setup on Windows 11](labs/windows/2026-01-01-github-ssh-setup-windows.md)
 
 ## Lab Categories
 - Windows: `labs/windows/`
