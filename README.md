@@ -12,9 +12,13 @@ Issue → Environment → Troubleshooting → Resolution → Prevention
 
 ### Featured Labs (Portfolio)
 
+### Featured Labs (Portfolio)
+
 - [GitHub SSH setup on Linux Mint](labs/linux/2026-01-01-github-ssh-setup.md)
 - [GitHub SSH setup on Windows 11](labs/windows/2026-01-01-github-ssh-setup-windows.md)
 - [Windows Server File Share + Map Network Drive (AD Domain)](labs/windows/2026-01-06-windows-server-file-share-map-drive.md)
+- [Pi-hole DNS + Firefox DoH Bypass (Coursera/YouTube failing to load)](labs/networking/2026-01-06-firefox-doh-pihole-dns-bypass.md)
+
 
 ---
 
