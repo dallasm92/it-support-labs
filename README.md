@@ -1,71 +1,53 @@
 # IT Support Labs
+Ticket-style troubleshooting labs written like real help desk work: issue → environment → troubleshooting → resolution → prevention. :contentReference[oaicite:4]{index=4}
 
-Hands-on, ticket-style troubleshooting labs documented like real IT support work.
+## Start here (2 minutes)
+- Lab Index: [LAB_INDEX.md](LAB_INDEX.md)
+- Ticket template: [templates/ticket-template.md](templates/ticket-template.md)
 
-## Format (used in every lab)
-
-Issue → Environment → Troubleshooting → Resolution → Prevention
-
-## Start Here
-
-- 📌 Full Lab Index: [LAB_INDEX.md](LAB_INDEX.md)
-
-
-### Featured Labs (Portfolio)
-
+## Featured labs (portfolio)
 - [GitHub SSH setup on Linux Mint](labs/linux/2026-01-01-github-ssh-setup.md)
 - [GitHub SSH setup on Windows 11](labs/windows/2026-01-01-github-ssh-setup-windows.md)
 - [Windows Server File Share + Map Network Drive (AD Domain)](labs/windows/2026-01-06-windows-server-file-share-map-drive.md)
-- [Pi-hole DNS + Firefox DoH Bypass (Coursera/YouTube failing to load)](labs/networking/2026-01-06-firefox-doh-pihole-dns-bypass.md)
-
-
----
-
-## What This Repo Demonstrates
-
-- Realistic IT support scenarios (Windows + Linux)
-- A repeatable troubleshooting methodology
-- Clean documentation and prevention notes
-- Communication style that mirrors actual ticket work
-
-Repo started: 2026-01-01
+- [Pi-hole DNS + Firefox DoH bypass (Coursera/YouTube failing to load)](labs/networking/)
 
 ---
 
-## Lab Categories
+## What this repo demonstrates
+- Realistic support scenarios across Windows, Linux, and networking
+- A repeatable troubleshooting methodology (symptoms → hypotheses → tests → fix → verification)
+- Clear documentation and prevention notes that mirror ticket work :contentReference[oaicite:5]{index=5}
 
-- Windows: `labs/windows/`
-- Linux: `labs/linux/`
-- Networking: `labs/networking/`
-- Security: `labs/security/`
-
----
-
-## Naming Convention
-
-`labs/<category>/YYYY-MM-DD-short-title.md`
-
-Example: `labs/networking/2026-01-03-dns-not-resolving.md`
+Repo started: 2026-01-01 :contentReference[oaicite:6]{index=6}
 
 ---
 
-## Suggested “Portfolio” Lab Types (Roadmap)
+## Repo structure
+- Windows labs: `labs/windows/`
+- Linux labs: `labs/linux/`
+- Networking labs: `labs/networking/`
+- Security labs: `labs/security/`
 
-If you want this to look job-ready fast, prioritize labs like:
-
-- DNS not resolving (client → DNS → upstream)
-- Wi-Fi connected, no internet
-- Printer offline / can’t print
-- VPN can’t connect
-- Slow PC (startup apps, disk space, malware scan basics)
-- “Access denied” file share / permissions basics
+Naming convention:
+`labs/<category>/YYYY-MM-DD-short-title.md` :contentReference[oaicite:7]{index=7}
 
 ---
 
-## Sanitization & Security
+## Evidence (screenshots & screen recordings)
+You do NOT need screenshots for every lab, but for “featured” labs you should capture proof.
 
-Public write-ups omit sensitive data (hostnames, internal IPs, keys, tokens).
+Recommended evidence checklist (pick 2–4 per lab):
+- Screenshot: error message/symptom (what user saw)
+- Screenshot: key config state (before/after)
+- Screenshot: verification test result (ping/nslookup/logon/etc.)
+- Screen recording (30–90s): the exact fix steps in GUI
 
-Screenshots (optional later):
-- Put screenshots in a `/screenshots/` folder inside each lab folder, or link them at the bottom of the lab.
+Storage rule:
+- Put lab artifacts in `labs/<category>/screenshots/<YYYY-MM-DD-lab-slug>/`
+- Link them at the bottom of the lab in an “Evidence” section
+
+---
+
+## Sanitization & security
+Public write-ups omit sensitive data (keys/tokens, private hostnames, unique IDs). :contentReference[oaicite:8]{index=8}
 
