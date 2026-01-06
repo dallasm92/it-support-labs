@@ -1,6 +1,6 @@
 # IT Support Labs
 
-Practical, ticket-style troubleshooting labs documented like real IT support work.
+Hands-on, ticket-style troubleshooting labs documented like real IT support work.
 
 ## Format (used in every lab)
 
@@ -10,7 +10,6 @@ Issue → Environment → Troubleshooting → Resolution → Prevention
 
 - 📌 Full Lab Index: [LAB_INDEX.md](LAB_INDEX.md)
 
-### Featured Labs (Portfolio)
 
 ### Featured Labs (Portfolio)
 
