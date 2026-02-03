@@ -17,20 +17,6 @@ Network: LAN (192.168.1.0/24)
 
 Firewall: UFW enabled (default deny incoming)
 
-Evidence (Screenshots)
-
-screenshots/2026-02-03-casaos-install/
-
-01-host-info.png
-
-02-docker-running.png
-
-03-casaos-installer-complete.png
-
-04-casaos-ui-loaded.png
-
-05-ufw-allow-81.png
-
 Steps
 
 Confirm host info and IP address
