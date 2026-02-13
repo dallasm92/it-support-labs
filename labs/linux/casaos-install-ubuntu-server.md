@@ -3,6 +3,16 @@ Lab — Install CasaOS on Ubuntu Server (ASUS Server)
 Goal
 Install CasaOS on an Ubuntu Server host to provide a lightweight web UI for managing “convenience” apps (without replacing existing Docker stacks).
 
+## User Impact
+
+- Admins lacked a simple centralized web interface for app management tasks.
+- Routine service checks required more manual CLI effort.
+
+## Business Impact
+
+- Slower operational workflows for common container/service actions.
+- Higher support friction for basic administration tasks.
+
 Environment
 
 Host: ASUS Server (Ubuntu 24.04.3 LTS, x86_64)

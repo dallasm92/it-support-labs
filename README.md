@@ -11,6 +11,7 @@ Issue → Environment → Troubleshooting → Resolution → Prevention
 ## Featured Labs (Portfolio)
 - [Home PC Refresh + Data Migration (Windows 10 → Windows 11)](labs/windows/2025-06-01-home-pc-refresh-data-migration.md)
 - [Windows Server File Share + Map Network Drive (AD Domain)](labs/windows/2026-01-06-windows-server-file-share-map-drive.md)
+- [Network Printer Offline After DHCP Change (Windows 11)](labs/windows/2026-02-13-network-printer-offline-tcp-ip-port.md)
 - [GitHub SSH setup on Windows 11](labs/windows/2026-01-01-github-ssh-setup-windows.md)
 - [GitHub SSH setup on Linux Mint](labs/linux/2026-01-01-github-ssh-setup.md)
 
@@ -28,6 +29,6 @@ Skills mapped to evidence:
 - Endpoint migration planning and execution: [Home PC Refresh + Data Migration](labs/windows/2025-06-01-home-pc-refresh-data-migration.md)
 
 Current coverage:
-- Windows labs: 3
+- Windows labs: 4
 - Linux labs: 3
 - Networking labs: 1

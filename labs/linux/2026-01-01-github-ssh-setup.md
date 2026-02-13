@@ -3,6 +3,14 @@
 ## Issue
 Needed to authenticate to GitHub via SSH to clone/push repositories from Linux Mint.
 
+## User Impact
+- Unable to clone and push repositories from the Linux workstation.
+- Development and documentation workflow was blocked until auth was fixed.
+
+## Business Impact
+- Delayed code and documentation updates.
+- Increased support time for what should be a standard workstation setup task.
+
 ## Environment
 - OS: Linux Mint
 - GitHub: SSH auth with ed25519 key

@@ -3,6 +3,14 @@
 ## Issue
 Need a centralized SMB file share on a Windows Server for domain users, plus a mapped drive on a Windows 11 domain-joined client with verified read/write access.
 
+## User Impact
+- Users lacked a consistent shared location for team files.
+- Manual file transfers increased the chance of version confusion and access issues.
+
+## Business Impact
+- Slower collaboration and increased risk of data sprawl.
+- Support overhead increased when share permissions or mappings were inconsistent.
+
 ## Environment
 - Hyper-V lab environment
 - Domain: `lab.local`
