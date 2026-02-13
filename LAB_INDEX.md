@@ -10,9 +10,7 @@ This index links to every lab in this repository.
 
 ## Linux
 
-Linux
-
-- [GitHub SSH setup (Linux)](labs/linux/github-ssh-setup-linux.md)
+- [GitHub SSH setup (Linux)](labs/linux/2026-01-01-github-ssh-setup.md)
 - [CasaOS install on Ubuntu Server (ASUS Server)](labs/linux/casaos-install-ubuntu-server.md)
 - [Syncthing backups: MAIN-PC → ASUS Server (CasaOS/Docker)](labs/linux/syncthing-backups-main-pc-to-asus-server.md)
 
