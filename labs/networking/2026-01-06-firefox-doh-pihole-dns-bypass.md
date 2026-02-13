@@ -19,6 +19,18 @@ End result:
 
 ---
 
+## User Impact
+
+- End user could not reliably access learning and video platforms needed for daily use.
+- Browser failures appeared intermittent, making the issue hard to trust and reproduce.
+
+## Business Impact
+
+- Lost productivity and higher support effort due to repeated outage symptoms.
+- Delayed root-cause identification because DNS bypass behavior was not immediately visible.
+
+---
+
 ## Environment
 
 ### Network (Redacted)

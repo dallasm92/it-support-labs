@@ -7,6 +7,7 @@ This index links to every lab in this repository.
 - [GitHub SSH setup (Windows)](labs/windows/2026-01-01-github-ssh-setup-windows.md)
 - [Windows Server File Share + Map Network Drive (AD Domain)](labs/windows/2026-01-06-windows-server-file-share-map-drive.md)
 - [Home PC Refresh + Data Migration (Windows 10 → Windows 11)](labs/windows/2025-06-01-home-pc-refresh-data-migration.md)
+- [Network Printer Offline After DHCP Change (Windows 11)](labs/windows/2026-02-13-network-printer-offline-tcp-ip-port.md)
 
 ## Linux
 

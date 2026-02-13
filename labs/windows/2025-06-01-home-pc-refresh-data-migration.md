@@ -3,6 +3,14 @@
 ## Issue
 A family member’s ASUS all-in-one (Windows 10) had severe performance problems: constant 100% disk usage, extremely slow boot, and applications taking several minutes to launch. The user also needed a reliable migration path to a newer Windows 11 system.
 
+## User Impact
+- User experienced severe performance degradation and could not work efficiently.
+- Risk of data loss during migration created high stress and required careful handling.
+
+## Business Impact
+- Significant productivity loss from device slowness and downtime during migration.
+- Potential operational risk if critical user files were not preserved.
+
 ## Environment
 - Old device: ASUS all-in-one (Windows 10)
 - New device: Dell desktop (Windows 11, 16GB RAM, 1TB storage, upgrade-friendly)

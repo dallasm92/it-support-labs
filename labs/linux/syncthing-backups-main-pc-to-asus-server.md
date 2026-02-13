@@ -3,6 +3,16 @@ Lab — Syncthing Backups: Windows 11 MAIN-PC → Ubuntu Server (CasaOS/Docker)
 Goal
 Create a safe one-way backup workflow from Windows 11 (MAIN-PC) to Ubuntu Server (ASUS Server) using Syncthing installed through CasaOS. Configure firewall ports, validate syncing, and document troubleshooting of container storage paths.
 
+## User Impact
+
+- User backups were not centralized or validated end-to-end.
+- Failed sync paths risked giving a false sense of backup success.
+
+## Business Impact
+
+- Increased risk of data loss without reliable off-device backups.
+- More support time required to troubleshoot path/permission mismatches.
+
 Environment
 
 MAIN-PC: Windows 11 (Syncthing installed locally)
