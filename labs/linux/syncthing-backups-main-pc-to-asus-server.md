@@ -17,11 +17,11 @@ Environment
 
 MAIN-PC: Windows 11 (Syncthing installed locally)
 
-ASUS Server: Ubuntu 24.04.3 LTS (192.168.1.221)
+ASUS Server: Ubuntu 24.04.3 LTS (asus-server.lan)
 
-CasaOS UI: http://192.168.1.221:81
+CasaOS UI: http://asus-server.lan:81
 
-Syncthing UI (ASUS): http://192.168.1.221:8384
+Syncthing UI (ASUS): http://asus-server.lan:8384
 
 Firewall: UFW enabled (default deny incoming)
 
@@ -37,7 +37,7 @@ Install Syncthing via CasaOS (ASUS Server)
 
 Install from CasaOS App Store
 
-Confirm Syncthing UI opens on MAIN-PC: http://192.168.1.221:8384
+Confirm Syncthing UI opens on MAIN-PC: http://asus-server.lan:8384
 
 Firewall: allow Syncthing Web UI
 sudo ufw allow 8384/tcp comment 'Syncthing Web UI'
