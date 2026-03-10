@@ -3,6 +3,14 @@
 ## Issue
 Needed SSH authentication to GitHub to clone/push repositories from Windows 11 without HTTPS credentials.
 
+## User Impact
+- User could not reliably push code from the Windows workstation.
+- Daily workflow required repeated credential handling until SSH was configured.
+
+## Business Impact
+- Slower repository operations and higher chance of credential-related errors.
+- Onboarding friction for a common workstation setup requirement.
+
 ## Environment
 - OS: Windows 11
 - Shell: Git Bash (MINGW64)
