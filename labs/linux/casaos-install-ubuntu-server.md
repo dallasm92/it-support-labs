@@ -17,7 +17,7 @@ Environment
 
 Host: ASUS Server (Ubuntu 24.04.3 LTS, x86_64)
 
-Host IP: asus-server.lan
+Host IP: <REDACTED_LAN_HOST>
 
 Docker: installed and running
 
@@ -52,7 +52,7 @@ sudo ufw status verbose
 
 Validate CasaOS UI from MAIN-PC browser
 
-URL: http://asus-server.lan:81
+URL: http://<REDACTED_LAN_HOST>:81
 
 Expected: CasaOS dashboard loads
 
