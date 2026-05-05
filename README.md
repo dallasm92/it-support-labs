@@ -3,6 +3,9 @@
 Practical, ticket-style troubleshooting labs documented like real IT support work.
 Last reviewed: March 16, 2026
 
+Social preview asset:
+- [assets/social-preview.png](assets/social-preview.png)
+
 ## Format (used in every lab)
 Issue → Environment → Troubleshooting → Resolution → Prevention
 
